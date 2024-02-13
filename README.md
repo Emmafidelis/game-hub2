@@ -1,8 +1,6 @@
 # About
 
-This repository contains the completed GameHub project as of the end of part 2 of my React course.
-
-You can find the full course at: https://codewithmosh.com
+GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more.
 
 ## Getting Started
 
